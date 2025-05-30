@@ -10,12 +10,11 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://52.91.252.222:9000/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password>
+		<sonar.host.url>http://52.91.252.222:9000</sonar.host.url>
+    		<sonar.login>4f8b93fe5858416bb0b858bf5f26e3d5132005c1</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-                <maven.compiler.source>1.7</maven.compiler.source>
-                <maven.compiler.target>1.7</maven.compiler.target>
+                <maven.compiler.source>17</maven.compiler.source>
+                <maven.compiler.target>17</maven.compiler.target>
 		
 
 	</properties>
