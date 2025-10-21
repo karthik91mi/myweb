@@ -38,7 +38,7 @@
 <body>
 
 <div class="container">
-    <h1>🚀 Tomcat is Live</h1>
+    <h1>🚀 Karthik is live </h1>
     <div class="card">
         <p><b>Server Info:</b> <%= application.getServerInfo() %></p>
         <p><b>Java Version:</b> <%= System.getProperty("java.version") %></p>
